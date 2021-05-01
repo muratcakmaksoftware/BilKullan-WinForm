@@ -1,0 +1,100 @@
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.exe
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.pdb
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.pdb
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\System.Data.SQLite.dll
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.exe
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.pdb
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.pdb
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\bin\Release\System.Data.SQLite.dll
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache
+D:\html & Css\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.exe
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.exe
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Release\Guvenlik.exe
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Release\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Release\System.Data.SQLite.dll
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Release\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Release\Guvenlik.exe.config
+C:\Users\Kübra(Dky)\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe.config
+F:\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe.config
+F:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.exe
+F:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.pdb
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe.config
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Release\System.Data.SQLite.dll
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.YoneticiPaneli.resources
+D:\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe.config
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.exe
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.pdb
+D:\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe
+D:\Guvenlik\Guvenlik\bin\Release\Guvenlik.pdb
+D:\Guvenlik\Guvenlik\bin\Release\System.Data.SQLite.dll
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.YoneticiPaneli.resources
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.YoneticiPaneli.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Yardim.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Yardim.resources
+D:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.Yardim.resources
+H:\Guvenlik\Guvenlik\bin\Release\Guvenlik.exe.config
+H:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.exe
+H:\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.DersEkle.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\Ionic.Zip.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\office.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\office.xml
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.ExcelSoruGiris.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\Guvenlik.GeriSayim.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\BilKullan.exe.config
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\BilKullan.exe
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Release\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\BilKullan.exe
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Release\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Release\BilKullan.exe.config
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\BilKullan.exe
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\Ionic.Zip.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\System.Data.SQLite.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Release\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Release\Guvenlik.csproj.GenerateResource.Cache

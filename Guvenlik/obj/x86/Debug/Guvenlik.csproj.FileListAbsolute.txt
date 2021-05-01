@@ -1,0 +1,253 @@
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.exe
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.pdb
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Debug\Guvenlik.pdb
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Debug\Guvenlik.exe.config
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.exe
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Debug\Guvenlik.exe
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\bin\Debug\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Guvenlik2\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+D:\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe.config
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.exe
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.pdb
+D:\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe
+D:\Guvenlik\Guvenlik\bin\Debug\Guvenlik.pdb
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe.config
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Ogr00\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+H:\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe.config
+H:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.exe
+H:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\office.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\office.xml
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+D:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+F:\Guvenlik\Guvenlik\bin\Debug\Guvenlik.exe.config
+F:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.exe
+F:\Guvenlik\Guvenlik\obj\x86\Debug\Guvenlik.pdb
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\New-Computer\Desktop\Guvenlik\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.dll
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.xml
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\New-Computer\Desktop\Aydın Ün\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe.config
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.exe
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\BilKullan.pdb
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.exe
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\BilKullan.pdb
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.dll
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\bin\Debug\office.xml
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+D:\Yakup\Desktop\BilKullan Kaynak Kod\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\bin\Debug\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 2\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 3\Guvenlik\bin\Debug\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\bin\Debug\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.KonuEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 4\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.pdb
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\office.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\office.xml
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.KonuEkle.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+C:\Users\Programmer\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe.config
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.exe
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.pdb
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csprojResolveAssemblyReference.cache
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.DersEkle.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.ExcelSoruGiris.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Form1.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.GeriSayim.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.KonuEkle.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.KullaniciAyarlari.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Properties.Resources.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.Yardim.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.YoneticiPaneli.resources
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.GenerateResource.Cache
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.pdb
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.QualityTools.Testing.Fakes.dll
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\office.dll
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\Microsoft.Office.Interop.Excel.xml
+E:\Program\Bil Kullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\office.xml
+C:\Users\Helios\Desktop\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\Helios\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\Helios\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\Helios\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\Helios\Desktop\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.pdb
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\BilKullan\BilKullan Kaynak Kod 5\Guvenlik\bin\Debug\BilKullan.exe.config
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\BilKullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\BilKullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\Guvenlik.csproj.ResolveComReference.cache
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\BilKullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.exe
+C:\Users\ProgrammerDky\Desktop\PROJELERİM\BilKullan\BilKullan Kaynak Kod 5\Guvenlik\obj\x86\Debug\BilKullan.pdb

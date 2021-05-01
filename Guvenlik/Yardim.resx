@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="richTextBox1.Text" xml:space="preserve">
+    <value>Bu Proje Neden Yapıldı ?
+
+Kişinin kendisini geliştirme amaçlı ve bunu eğlenerek sağlamaya çalışmamız.
+
+Program ne işe Yarıyor ?
+
+Bu program soruları yönetici belirleyip her doğru cevap sayısına yöneticinin belirlediği dakika
+kadar masaüstüne erişim sağlayıp eğlenceli hale getirmek.
+
+Program Nasıl Kullanılır ?
+
+1)Klavyeden F2 Basarak Yönetici Paneli açalım varsayılan şifreniz  " 1234 " 'dür. Bu şifre ile ilk 
+girişinizi yapabilirsiniz.
+
+2)Güvenlik 
+
+a)Eski şifreyi yazıp yeni şifrenizi girip güncelleyebilirsiniz.
+
+b)Güvenlik Aktif/Pasif ile ordaki açıklamaları okuyarak gerekli güvenliği ayarlayabilirsiniz.
+
+3)Soru Giriş 
+
+a)Ders ekleyebilir eklediğiniz dersi seçip stiller vererek ve resim ekleyerek sorularınızı 
+girebilirsiniz. 
+
+b)Sorunuzu listeden seçerek seçileni düzenle butonuna basarak sorularınızı güncelleyebilirsiniz.
+
+4)AYARLAR
+
+a)Her doğru cevabın dakikasını ayarlayabilirsiniz. 
+
+b)Kaç Soru olucağını belirtip sınırlandırabilirsiniz. 
+
+c)Analiz Sonuçlarınızı kendi email adresinizi girip şifresinide girdikten sonra sonuçları email 
+adresinize gönderebilirsiniz.
+
+d)Sorulacak Soru Türü buradan herhangi tek bir dersi seçebilir veya karışık seçerek tüm
+derslerden soru sorabilirsiniz. Otomatik ise Haftaya Programlamayı sağlar. Seçtiğiniz
+soru kadar soru sayısı çıkar herhangi bir dersten en az 1 adet soru seçilmelidir.
+Tüm haftanın sorularını seçip soruları güncelle butonuyla güncelledikten sonra
+Haftayı programla butonuna basın ve Haftaya programlamış olursunuz.
+
+e)Başarı Oranı %50 küçükse veya büyükse İstediğiniz bir mesajı yazdırabilirsiniz.
+
+f)Database güncellemeyi internet üzerinden indirmektedir internete bağlı olduğunuzdan
+emin olun sonra güncelle butonuna tıklayın. Eğer database'niz güncel ise güncel versiyonu
+kullanıyorsunuz mesajını alırsınız değilse  "güncellemeyi yapmak istediğinize emin misiniz ?"
+sorusunu soracaktır eğer evet derseniz girdiğiniz sorular gider bizim hazır girdiğimiz güncel 
+sorular eklenir. Güncelleme bittiğinde şifreniz varsayılan şifre olarak değişecektir.
+Tekrar Yönetici paneline girmeniz istenecektir.
+
+5)ANALİZ
+
+a)Her test sonucunda tarihleriyle beraber hangi ders, soru sayısı, doğru cevap sayısı,
+yanlış cevap sayısı ile listelenir varsayılanı hepsidir.
+
+b)Süreç kısmından Günlük,Haftalık,Aylık,Hepsi şeklinde Süreci kısıtlayabilirsiniz.
+
+c)Filtre bölmünden istediğiniz iki tarih arasındaki  analiz sonuçlarına ulaşabilirsiniz ve arada
+kaç gün olduğunu Gün sayısı yazısından görebilirsiniz.
+
+d)İstatistik kısmında Toplam Ders Sayısını, Toplam Soru Sayısını, Toplam Doğru Cevap Sayısını,
+Toplam Yanlış Cevap Sayısını Görebilirsiniz.
+
+e)Analiz Temizle Butonu ile Tüm Geçmişi Silebilirsiniz.
+
+f)Analiz Dışarı Aktarma txt seçili ise dışarıya metin belgesi olarak çıkartır.Eğer Excel seçili
+ise xls olarak dışarı aktarım yapıcaktır excel ile bunu açabilirsiniz. Eğer excel yüklü değilse
+hata alabilirsiniz bu yüzden excel seçicekseniz  Excel Programının yüklü olduğundan
+emin olun.
+
+6)MENÜ
+
+a)Bilgisayarı kapat çift tıklayarak gelen uyarı mesajı onayladıktan sonra kapatabilirsiniz.
+
+b)Bilgisayarı kapat tek tıklayarak yeniden başlatma seçeneğini seçip onayladıktan sonra
+bilgisayarınızı yeniden başlatabilirsiniz.
+
+c)Programı devre dışı bırak diyerek programı kapatabilirsiniz.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAIAEBAAAAAAIABoBAAAJgAAACAgAAAAACAAqBAAAI4EAAAoAAAAEAAAACAAAAABACAAAAAAAEAE
+        AAAAAAAAAAAAAAAAAAAAAAAA////Af///wH///8B////AQ1igUMPbo3BFW6IZRcdHQ8IYH9BEHOYMf//
+        /wH///8B////Af///wH///8B////Af///wH///8B////ATQ4Qj0yU2e3f6K1/5y6yvmnvs3Zhay97yVs
+        hu8PcJYh////Af///wH///8B////Af///wH///8BODxIL1RaarlhaHrzU1ho/4ygrv+xytn/sMnX/7LL
+        2f9hboD5CWN9Ff///wH///8B////Af///wH///8B////ATY7Rnlrcof/Zm2B/19leP9cZHT/ssza/7PM
+        2v+PoK//YGZ5+zE2QU9CW3kt////Af///wH///8B////Af///wEBAQEJR01bhVxidOldZHb/Zm9//3qI
+        lv+BkJ7/Z26C/1pgcf9qcIX/YHmc4To/TFcjJSwN////Af///wH///8B////Af///wElKC85Z3aG+3iF
+        lP97iJf/fo2b/3B+iPNNU2CPVlxti11nfO1OVWb9NjpFWf///wH///8B////Af///wE2OkVZW2Fz7Vpd
+        iP9hZ4D/bHOI/2xziP9pb4T9VVprvykrMxdOU2J3TFhswUhTZj////8B////Af///wEeIScpXGN1811b
+        g/9UUIH/aG6E/21ziP9tc4j/bHOI/2xziP9TWGivBwgJB1JwlTFScZVV////Af///wH///8BO0BMf3eA
+        kv9zcJz/bnCM/1huiv82fK3/PHyl/3R7j/9vdov/ZWt/9T1CTiv///8BT22Qb0NbeQf///8BAQEBKzg8
+        SXuirbj/fYF+/7GunP9rmbX/GKLr/xOS0v97jpr/xNPg/3Z+kflHTFov////AUZhgB9HYYFP////AQEB
+        AZUEBAXFQERH9c/Jtv/mt4P/9uLA/15bUv/JtZf/2tC4/4WKif+qt8HbIiQvFf///wH///8BPVNrUzlP
+        ZQ0DAgEVKxoAbTs6PM2yr6b/9d/B//Dkyf9qZFj/6r+R//zv1/+HhXv/e4OOh////wH///8B////ATZK
+        XxsyRFg3JRYBFWk/AtVoTiD/NkAy/2RZSv9ZSjb/S05X/5aNff2sqZzfQUFDk1RZaD3///8B////Af//
+        /wH///8BEhggO////wE/JgE3ZksX9yqBe/9CLhv/bkYQ/4RTDv9cPRL9Ag8jewIFCwf///8B////Af//
+        /wH///8B////Af///wH///8B////AVEuAGlSQRb7kVYB/55eAP+hYAD/e00L/3lKBtFFKQAX////Af//
+        /wH///8B////Af///wH///8B////Af///wE4GwAHIi0flWpAB6dtQwijbUIHo21CB51tQweRPiYDJ///
+        /wH///8B////Af///wH///8B////AQAA//8AAP//AAD//wAA//8AAP//AAD//wAA//8AAP//AAD//wAA
+        //8AAP//AAD//wAA//8AAP//AAD//wAA//8oAAAAIAAAAEAAAAABACAAAAAAAIAQAAAAAAAAAAAAAAAA
+        AAAAAAAA////Af///wH///8B////Af///wH///8B////Af///wEJPVEJCDZLGw9pipcObImnBmWAIwuH
+        rRf///8B////AQpOawkPZYQVCUVVBQAAAAP///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQxWdk0OcJKbDnOW1xBu
+        ie8UZ3/JGXWRlSApKiMHCQgVBT1TSwlxlJkNZ4ljFIWvWQAAAAP///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQAAAAP///8BD1BtTRli
+        e+tDd4z9c5qr/4ewwv+MsMPpmrC/u5qvva1ujZrHM3qS9xNsie0ReJvdAAAACf///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BKCszUzs/
+        S6EwND+tVV1v942luf+40eL/qL7L/7LK2f+txNL/tM3d/7jR4P21z97/WnJ+/xJdePEQeKB7////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wEuMjsXNjpEZzAz
+        PIFCRlPPanGG/UlNW/9JTVz/c4OU/7PN2v++2en/qcDO/7XP3f+rw9D/scrY/7HK1/+CjJz/PV1x+Qps
+        iE3///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BAQEBDT1C
+        T5dla3//Y2l8/2dtgf9sdIn/WF1v/2Fne/9cZXX/r8rW/6/G1P+vyNf/rsfW/7PM2v+/2ej/qcDN/254
+        i/9UV2fvAAAAB////wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wEBAQErR0xb2W52i/9sc4n/a3KH/2xziP9lbH//WV9w/0tQX/94iZn/w9/p/7jR4f+40eL/r8fW/7XP
+        3P+Bj53/anGG/1hdb/UAAAAR////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////AQAAABU2OkXHZW2B/2xziP9cYnT/Z26C/2JpfP9bYnP/Ymh8/0lPXf+fucn/r8nW/6zE
+        0P+50+H/obbF/2Vsfv9udoz/T1Rk+zc8R68vNUB9Q1x5i0Fadyn///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AQEBAR09Qk6zXGJ17WZtgf1XXW3/W2By/11jdf9VWmv/XGFz/2Fq
+        e/98jp//mK26/4SUof9janv/bHOJ/2dugv9MUWD/aXGG/19meP9geJv/VnaemxobIBEwMz0XGhwgBf//
+        /wH///8B////Af///wH///8B////Af///wH///8B////ARsdIxExNkBjTlNjs2FnevNgZ3n/XmZ3/3OA
+        kP9zf43/kqWs/3iGk/94hpP/cXyL/2lxg/9lbID/Vlxs/11jdv9wd43/bnSJ/2Rvh/9jhrLrO0JRmT1B
+        TZ8kJy4t////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQAAAAMiJS0hOT5Jc3WI
+        mft1iJj/jKCs/4iapv+UqLL/ipyo/5Gksf+ht8L/hZeh/3F9iP1NU2DtV11t21hdb9teZXftZ2x//Vtv
+        jv9EUGL/Sk5c9Tk9SYMXGBwN////Af///wH///8B////Af///wH///8B////Af///wH///8B////AQAA
+        AAcJCgxLUVxq82Jsff9jan3/aG+D/2dugv9nboL/ZWx//2Nre/9nc3//YW1zzzY8QlFGS1gnREhVJz1B
+        TT9aYHK7V11v/19mef9LUV//ODxHtSUoLxv///8B////Af///wH///8B////Af///wH///8B////ARYX
+        GwcfISg/OT5JuVhfcPtrcoj/anCJ/2tyiP9rcob/bHOI/2xziP9sc4j/bnWL/2xyiP9fZHj7RktZyTE0
+        PkkAAAAF////AUZLWHNdY3XnWV9w7UxTY/VLUV+hNjpEF////wH///8B////Af///wH///8B////Af//
+        /wH///8BIiQsSURJV9VlbID/a3KG/0pHff9ISpH/UlZ+/11jdf9tdIn/bHOI/2xziP9sc4j/bHOI/251
+        iv9sc4j/VFlp5ywvN1MAAAAFISMqHUFGUmU4Q1NrSWKBu0hhgUX///8B////Af///wH///8B////Af//
+        /wH///8B////AQAAABk9QU7PZGt//211h/9VUnz/RjaE/1dcfv9gZoH/ZmyA/2xziP9sc4j/bHOI/2xz
+        iP9sc4j/bHOI/2xziP9tdYr/UVZm1SYqMkP///8B////AUpnigtUdJp/UnGVe0BXcwv///8B////Af//
+        /wH///8B////Af///wH///8BIycuh1xjdf9tdYn/ZWp//0w8iP9NQYP/Z2+A/210iP9sc4j/bHOJ/3B1
+        if9wdIj/bHOI/2xziP9sc4j/bHOI/2xziP9pcIX7Q0hVqQcICRn///8B////AU1pizdTcZalVXWbJ///
+        /wH///8B////Af///wH///8B////AQICAh0+Q1HVa3KH/3B4iv9dXYH/TzqV/1NHiP90fI3/b3aK/2pw
+        hP9daID/RGiH/0Nqif9lboP/bHKH/2pxhv9qcYb/a3KH/2xziP9aYHLjMzhBS////wH///8B////AVRz
+        mHdOao13////Af///wH///8B////Af///wH///8BCQkLLUpPXttudIn/laCu/5Oar/+Mj67/d3yR/3mB
+        iP9UaoL/M2iZ/x6DxP8Xnur/FqHp/zB2oP94fY//hI2g/3uDl/9tdIn/a3KH/2Fne/NFSlhb////Af//
+        /wH///8BQ117I09tka9DW3kX////Af///wH///8B////Af///wEJCQslSU5f2X+Hlv+uu8L/oa+0/19m
+        Zv90dWv/fHhs/0Rsiv8QhuD/GrL//xyt/v8csP7/EqXr/3CYr//W4uz/xtXi/6ezw/9vdov/YWd79UlN
+        XGEAAAAD////Af///wH///8BSGKCa0tmh3P///8B////Af///wEBAQE7AQEBbQEBATU+QlG7usjX/5+r
+        sv9JTEv/qqWT/+fly//t6M//2NXB/4Keqv8Sg7z/GKf1/w+O0v8OZI3/KT1F/3yEiv/K2uT/2er2/6Wx
+        wf9gZnnxRktZWf///wH///8B////Af///wE+VXAPR2GApTxRax////8B////AQEBAZcBAQHzAQEBnxAS
+        Fql8hpD/Vlxg/5KLe//679X/9uDB/+3Jn//34cH//vrd/2BYTP8fLTL/eHlt/9nIrv/h1Lv/j4p5/1ZY
+        V/+9y9X/zt7r/3F5idkqLTlB////Af///wH///8B////Af///wE6TmZPQFdxcTdLYAf///8BAQEBGwEB
+        Aa0BAQHtAAAA3QIDA9chIB39tLKh//735v/ovYz/zHgi/+e5hf/99dr/lo5+/2NZS//gvpH/8tav//3w
+        1//68tf/jol4/3V9gv/Y6Oz5dX6InQcIDBX///8B////Af///wH///8B////ATxTahk7UWh1Ok9lK///
+        /wEBAQEFAQEBLQEBAVMBAQFFGx0pbTAxNv2inIz//Pjs//Tew//ltYD/8dSv//343/92cWb/kYFq/92W
+        Uv/fpmr//O/X//zv1P/Kwar/V1pb/6SwtuNHTE9F////Af///wH///8B////Af///wH///8BNUpdBThN
+        Yk03S2BVMkRXB////wEHBQEfLhwBd08vAKFRQCrPQ0lZ/0hHRf/i4dn//vrs//zv1P/9997/1c63/xwc
+        Gv+HgnT/9t/B//bhx//77tn//PDV/723ov8+QET/cHiK1woLDiH///8B////Af///wH///8B////Af//
+        /wH///8BLj9TGS8/U2MvP1MZ////ASUWAUNXNALbilMC/3pOEf9WSj3/QyoR/zguIv+SjH3/qqGQ/396
+        bP8vMDT/U1ps/z49Pv+vrZv/6+rk/+7t5f/Rzrf9WlZM50FFU91kany3AAAACf///wH///8B////Af//
+        /wH///8B////Af///wH///8BHio2PRMZInf///8BIhQBD0MoAYVrQALzhVAE/0pSLv81dWv/JzUr/xoS
+        EP87JQr/VjIE/2JONv9XX3T/RUA+/086H/9sY1f5fnluz0tJQa0PDw1TIyUsMyksMzX///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wEAAAAJAgMFMf///wH///8BIRQBG0YqAaN5RwP/U2VH/wm9
+        0v8qbmv/IBsi/x4iMv9AMSP/eUsM/11BIf96Uhn/klUC/2I3APUHBQRhAggROwIECQ3///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8BLx0BG1Yy
+        Ad91TQ7/Lnlt/0hhQv9zQgb/WToS/21FDv+QVgH/m1sA/51cAP9UOxj/Kist/QEWNdMADSR7AwYND///
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8BMB4BP2I4AeVeQhD/WUUV/5FWAP+ZWwH/pWIA/6NgAP+hYAD/omAA/3dLDf82LR//WTwT80st
+        AHs1HwAJ////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wEaEAELRiYAcUY3EutLRiD/kVMB/4lTA/+TWQL/n18A/6BfAP+gXwD/o2AA/5xc
+        AP+kYQD/hU8A20ksAE0AAAEF////Af///wH///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wE4GwAXKSgUkzFBK/V+SQXze0wJ8XxMCe+ATgjxfk0H8X9N
+        B/F+TAfvekoG7XpKB+lyRgbnRSoDdQAAAAn///8B////Af///wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////Af///wH///8B////Af///wEQFREhCxgZqzchBGE9JgZXPycHUzwl
+        BlU5JAZVOiQGVTwlBlE/JwdHRiwIP0ouCDc0IQUZAAAAA////wH///8B////Af///wH///8B////Af//
+        /wH///8B////Af///wH///8B////AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+</value>
+  </data>
+</root>
